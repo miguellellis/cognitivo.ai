@@ -319,7 +319,3 @@ O modelo se adaptou bem ao conjunto de dados explorado e apresentou resultados s
 
 Conforme o projeto explorado, possibilitou-se uma análise simples, porém efetiva quando ao conjunto de dados proveniente do Airbnb.
 Baseado em um modelo de regressão linear, possibilitou-se prever alguns possíveis custos de locações em condições específicas no Rio de Janeiro.
-
-
-
-Projeto encerrado --

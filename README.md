@@ -13,7 +13,9 @@ Primeiramente é realizado a importação e observação dos dados.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 data_rio <- read.csv(file = "listings.csv")
+
 percentual_nulo <- round(colSums(is.na(data_rio))*100/(nrow(data_rio)), 5)
+
 data.frame(percentual_nulo)
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +45,7 @@ Desta forma, realizou-se primeiramente uma exploração dos dados. Mediante hist
 observar o comportamento dos registros em quatro variáveis, sendo estas consideradas principais para o modelo
 de avaliação, são elas: prince. minimum_nights, number_of_reviwes e availability_365.
 
-
+![alt text](http://url/to/plot_1.png)
 
 
 

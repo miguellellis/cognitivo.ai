@@ -10,15 +10,6 @@ Em dado projeto busca-se apresentar um modelo de predição de custos mediante r
 
 Primeiramente é realizado a importação e observação dos dados.
 
-
-----------------------------------------------------------------------------------------------------------------------------------
-data_rio <- read.csv(file = "listings.csv")
-
-percentual_nulo <- round(colSums(is.na(data_rio))*100/(nrow(data_rio)), 5)
-
-data.frame(percentual_nulo)
-----------------------------------------------------------------------------------------------------------------------------------
-
 Identificando as seguintes variáveis no dataset. Vale ressaltar que também foi possível identificar a falta de dados em algumas variávies, 
 como por exemplo na variável "neighbourhood_group", indicando ausência total de dados e em "reviews_per_month" indicando falta de 37,415% dos dados.
 
@@ -45,7 +36,9 @@ Desta forma, realizou-se primeiramente uma exploração dos dados. Mediante hist
 observar o comportamento dos registros em quatro variáveis, sendo estas consideradas principais para o modelo
 de avaliação, são elas: prince. minimum_nights, number_of_reviwes e availability_365.
 
-![Ver Imagem](plot_1.png)
+(plot_1.png)
+
+
 
 
 

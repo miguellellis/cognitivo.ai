@@ -14,22 +14,22 @@ Identificando as seguintes variáveis no dataset. Vale ressaltar que também foi
 como por exemplo na variável "neighbourhood_group", indicando ausência total de dados e em "reviews_per_month" indicando falta de 37,415% dos dados.
 
 
-id                                     0.00000
-name                                   0.00000
-host_id                                0.00000
-host_name                              0.00000
-neighbourhood_group                  100.00000
-neighbourhood                          0.00000
-latitude                               0.00000
-longitude                              0.00000
-room_type                              0.00000
-price                                  0.00000
-minimum_nights                         0.00000
-number_of_reviews                      0.00000
-last_review                            0.00000
-reviews_per_month                     37.41499
-calculated_host_listings_count         0.00000
-availability_365                       0.00000
+|id                               |      0.00000 |
+|name                             |     0.00000  |
+|host_id                          |      0.00000 |
+|host_name                        |      0.00000 |
+|neighbourhood_group              |    100.00000 |
+|neighbourhood                    |      0.00000 |
+|latitude                         |      0.00000 |
+|longitude                        |      0.00000 |
+|room_type                        |      0.00000 |
+|price                            |      0.00000 |
+|minimum_nights                   |      0.00000 |
+|number_of_reviews                |      0.00000 |
+|last_review                      |      0.00000 |
+|reviews_per_month                |     37.41499 |
+|calculated_host_listings_count   |      0.00000 |
+|availability_365                 |      0.00000 |
 
 
 Desta forma, realizou-se primeiramente uma exploração dos dados. Mediante histogramas, possibilitou-se

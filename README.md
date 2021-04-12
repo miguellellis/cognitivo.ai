@@ -39,13 +39,14 @@ de avaliação, são elas: prince. minimum_nights, number_of_reviwes e availabil
 
 ![](plot_1.png)
 
+Realizando uma melhor exploração da variável price, principal variável para dada análise de predição, observou-se
+alguns outliers, ou pontos fora da curva, nos dados, conforme na imagem abaixo.
 
+![](plot_2.png)
 
+Desta forma, considerou-se imóveis com preços de até R$2000,00, cercar de 95,64% dos dados originais, resultando nos gráficos abaixo.
 
-
-
-
-
+![](plot_3.png)
 
 
 

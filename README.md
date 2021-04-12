@@ -50,15 +50,32 @@ Desta forma, considerou-se imóveis com preços de até R$2000,00, cercar de 95,
 
 Mediante o novo conjunto de dados, obteve-se:
 
-Média das diárias no Rio de Janeiro: R$404,31
+- Média das diárias no Rio de Janeiro: R$404,31
 
-Procentagem dos tipos de imóveis mais presentes:
+- Procentagem dos tipos de imóveis mais presentes:
+
 |Tipo de imóvel  |Percent|
 |----------------|------|
 |Entire home/apt |0.715 |
 |      Hotel room|0.003 |
 |    Private room|0.256 |
 |     Shared room|0.023 |
+
+- Os 10 bairros mais presentes:
+
+| Bairros                  |Número de imóveis|
+|--------------------------|-----|
+|                Copacabana| 7509|
+|           Barra da Tijuca| 2493|
+|                   Ipanema| 2453|
+|               Jacarepaguá| 1284|
+|                  Botafogo| 1203|
+|  Recreio dos Bandeirantes| 1112|
+|                    Leblon| 1085|
+|              Santa Teresa|  846|
+|                    Centro|  762|
+|                  Flamengo|  597|
+
 
 
 

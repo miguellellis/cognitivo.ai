@@ -45,7 +45,7 @@ Desta forma, realizou-se primeiramente uma exploração dos dados. Mediante hist
 observar o comportamento dos registros em quatro variáveis, sendo estas consideradas principais para o modelo
 de avaliação, são elas: prince. minimum_nights, number_of_reviwes e availability_365.
 
-![alt text](http://url/to/plot_1.png)
+![Ver Imagem](plot_1.png)
 
 
 

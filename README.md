@@ -48,8 +48,17 @@ Desta forma, considerou-se imóveis com preços de até R$2000,00, cercar de 95,
 
 ![](plot_3.png)
 
+Mediante o novo conjunto de dados, obteve-se:
 
+Média das diárias no Rio de Janeiro: R$404,31
 
+Procentagem dos tipos de imóveis mais presentes:
+|Tipo de imóvel  |Percent|
+|----------------|------|
+|Entire home/apt |0.715 |
+|      Hotel room|0.003 |
+|    Private room|0.256 |
+|     Shared room|0.023 |
 
 
 

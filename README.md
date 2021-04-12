@@ -13,7 +13,8 @@ Primeiramente é realizado a importação e observação dos dados.
 Identificando as seguintes variáveis no dataset. Vale ressaltar que também foi possível identificar a falta de dados em algumas variávies, 
 como por exemplo na variável "neighbourhood_group", indicando ausência total de dados e em "reviews_per_month" indicando falta de 37,415% dos dados.
 
-
+| Variável                        |Percent. nulo |
+|---------------------------------|--------------|
 |id                               |      0.00000 |
 |name                             |     0.00000  |
 |host_id                          |      0.00000 |
